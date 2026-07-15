@@ -3,9 +3,9 @@
  * Update values here; site config, SEO, contact, and resume derive from this file.
  */
 export const BIO = {
-  fullName: "Muhammad Waqas",
-  firstName: "Muhammad",
-  lastName: "Waqas",
+  fullName: "Zain Ul Abideen",
+  firstName: "Zain",
+  lastName: "Abideen",
   shortName: "MW",
   jobTitle: "Senior Blokchain Developer",
   email: "waqas@dafilabs.com",
