@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-label="platform engineering cicd framework">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#g)"/>
+  <circle cx="240.0" cy="225.0" r="135.0" fill="white" fill-opacity="0.12"/>
+  <circle cx="900.0" cy="525.0" r="165.0" fill="white" fill-opacity="0.1"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" fill-opacity="0.9" font-family="ui-sans-serif,system-ui,sans-serif" font-size="62">platform engineering cicd framework</text>
+</svg>
